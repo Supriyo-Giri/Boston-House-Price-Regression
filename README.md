@@ -4,8 +4,7 @@
 
 1. [Github Account](https://github.com/)
 2. [VS Code IDE](https://code.visualstudio.com/)
-3. [Heroku Account](https://www.heroku.com/)
-4. [git CLI](https://cli.github.com/)
+3. [git CLI](https://cli.github.com/)
 
 ### Creating a new Environment 
 
